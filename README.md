@@ -2,7 +2,6 @@
 - 👀 I’m interested in developing websites and hacking
 - 🌱 I’m currently learning Bsc IT
 - 📫 How to reach me insta -<br><a href="https://www.instagram.com/shaikh_shaahidd?igsh=c2IxdWdpamVmOXhv">Link</a>
-
 <a href="https://www.linkedin.com/in/shahid-shaikh-35b9b9277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a><br>
 - 😄 Pronouns: He/Him
 

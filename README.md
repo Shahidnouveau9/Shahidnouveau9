@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahidnouveau9
 - 👀 I’m interested in developing websites and hacking
 - 🌱 I’m currently learning Bsc IT
-- 📫 How to reach me insta -https://www.instagram.com/shaikh_shaahidd?igsh=c2IxdWdpamVmOXhv
+- 📫 How to reach me insta -<a href="https://www.instagram.com/shaikh_shaahidd?igsh=c2IxdWdpamVmOXhv">Link</a>
 - 😄 Pronouns: He/Him
 
 <!---
